@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Ốc",
+        "area": "xom_luoi",
+        "weekday_price": 2100000,
+        "weekend_price": 2600000,
+        "holiday_price": 3200000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "3 giường , 1 Tollet, Ban công hướng ra biển"
+    },
+    {
+        "name": "Sò",
+        "area": "xom_luoi",
+        "weekday_price": 1900000,
+        "weekend_price": 2300000,
+        "holiday_price": 2900000,
+        "people": 4,
+        "view": "no_view",
+        "note": "2 giường, ban công"
+    },
+    {
+        "name": "Tôm",
+        "area": "xom_luoi",
+        "weekday_price": 1300000,
+        "weekend_price": 1600000,
+        "holiday_price": 1900000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, ban công"
+    },
+    {
+        "name": "Nhum",
+        "area": "xom_luoi",
+        "weekday_price": 1300000,
+        "weekend_price": 1600000,
+        "holiday_price": 1900000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, ban công"
+    },
+    {
+        "name": "Mực",
+        "area": "xom_luoi",
+        "weekday_price": 900000,
+        "weekend_price": 1100000,
+        "holiday_price": 1500000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, không view, không ban công"
+    },
+    {
+        "name": "Cua",
+        "area": "xom_luoi",
+        "weekday_price": 1600000,
+        "weekend_price": 1900000,
+        "holiday_price": 2200000,
+        "people": 4,
+        "view": "sea_view",
+        "note": "2 giường 1 toilet, ban công hướng ra biển"
+    },
+    {
+        "name": "Ghẹ",
+        "area": "xom_luoi",
+        "weekday_price": 1600000,
+        "weekend_price": 1900000,
+        "holiday_price": 2200000,
+        "people": 4,
+        "view": "sea_view",
+        "note": "2 giường 1 toilet, ban công hướng ra biển"
+    },
+    {
+        "name": "Hàu",
+        "area": "xom_luoi",
+        "weekday_price": 900000,
+        "weekend_price": 1100000,
+        "holiday_price": 1500000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, k view, k ban công ngay cầu thang đi lên"
+      }
+]

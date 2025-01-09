@@ -76,7 +76,11 @@ function showDetails(item) {
     const areaMapping = {
         "xom_chai": "Xóm Chài",
         "xom_luoi": "Xóm Lưới",
-        "villa": "Villa"
+        "villa": "Villa",
+        "lamer": "Homestay Lamer",
+        "lang_chai": "Làng Chài",
+        "santo": "Santo Villa"
+
     };
 
     document.getElementById('modal-name').textContent = `Tên: ${item.name}`;

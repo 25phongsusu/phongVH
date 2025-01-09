@@ -69,7 +69,8 @@ function showDetails(item) {
     const viewMapping = {
         "no_view": "Không view",
         "sea_view": "View Biển",
-        "mountain_view": "View Núi"
+        "mountain_view": "View Núi",
+        
     };
 
     const areaMapping = {

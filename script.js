@@ -50,7 +50,8 @@ function applyFilters() {
         let priceMatch = true;
         if (priceTypeFilter && priceFilter) {
             const selectedPrice = item[priceTypeFilter];
-            priceMatch = (priceFilter === '1_to_3_million' && selectedPrice >= 1000000 && selectedPrice <= 3000000) ||
+            priceMatch = (priceFilter === 'under_1_million' && selectedPrice < 1000000) ||
+            (priceFilter === '1_to_3_million' && selectedPrice >= 1000000 && selectedPrice <= 3000000) ||
                         (priceFilter === '3_to_5_million' && selectedPrice > 3000000 && selectedPrice <= 5000000) ||
                         (priceFilter === '5_to_7_million' && selectedPrice > 5000000 && selectedPrice <= 7000000);
         }

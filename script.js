@@ -1,4 +1,3 @@
-// script.js
 const squaresContainer = document.getElementById('squares-container');
 let squaresData = [];
 
@@ -56,7 +55,7 @@ function applyFilters() {
                         (priceFilter === '5_to_7_million' && selectedPrice > 5000000 && selectedPrice <= 7000000);
         }
         
-        const peopleMatch = (!peopleFilter || item.people == peopleFilter);
+        const peopleMatch = (!peopleFilter || (peopleFilter === '10' ? item.people > 10 : item.people == peopleFilter));
         const viewMatch = (!viewFilter || item.view === viewFilter);
 
         return areaMatch && priceMatch && peopleMatch && viewMatch;

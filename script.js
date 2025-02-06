@@ -77,9 +77,9 @@ function showDetails(item) {
         "xom_chai": "Xóm Chài",
         "xom_luoi": "Xóm Lưới",
         "villa": "Villa",
-        "lamer": "Homestay Lamer",
-        "lang_chai": "Làng Chài",
-        "santo": "Santo Villa"
+        "homestay_lamer": "Homestay Lamer",
+        "homestay_lang_chai": "Làng Chài",
+        "santo_villa": "Santo Villa"
 
     };
 

@@ -1,10 +1,160 @@
 [
     {
+        "name": "Phòng số 1",
+        "area": "homestay_lamer",
+        "weekday_price": 900000,
+        "weekend_price": 1100000,
+        "holiday_price": 1400000,
+        "people": 2,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Phòng số 2",
+        "area": "homestay_lamer",
+        "weekday_price": 1100000,
+        "weekend_price": 1400000,
+        "holiday_price": 1800000,
+        "people": 4,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Phòng số 3",
+        "area": "homestay_lamer",
+        "weekday_price": 600000,
+        "weekend_price": 700000,
+        "holiday_price": 1000000,
+        "people": 2,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Phòng số 4",
+        "area": "homestay_lamer",
+        "weekday_price": 600000,
+        "weekend_price": 700000,
+        "holiday_price": 1000000,
+        "people": 2,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Phòng số 5",
+        "area": "homestay_lamer",
+        "weekday_price": 900000,
+        "weekend_price": 1100000,
+        "holiday_price": 1400000,
+        "people": 2,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Phòng số 6",
+        "area": "homestay_lamer",
+        "weekday_price": 1100000,
+        "weekend_price": 1400000,
+        "holiday_price": 1800000,
+        "people": 4,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "(P101, 102, 201, 202)",
+        "area": "homestay_lang_chai",
+        "weekday_price": 1400000,
+        "weekend_price": 1700000,
+        "holiday_price": 2000000,
+        "people": 2,
+        "view": "sea_view",
+        "note": "View biển có ban công"
+    },
+    {
+        "name": "(P103, 110, 203, 205, 206, 212)",
+        "area": "homestay_lang_chai",
+        "weekday_price": 800000,
+        "weekend_price": 1000000,
+        "holiday_price": 1300000,
+        "people": 2,
+        "view": "mountain_view",
+        "note": "View núi 1 giường "
+    },
+    {
+        "name": "(P104, 109, 204, 207, 208, 211)",
+        "area": "homestay_lang_chai",
+        "weekday_price": 1100000,
+        "weekend_price": 1400000,
+        "holiday_price": 1800000,
+        "people": 2,
+        "view": "sea_view",
+        "note": "View biển 1 giường - rộng "
+    },
+    {
+        "name": "(P107, 108, 209, 210)",
+        "area": "homestay_lang_chai",
+        "weekday_price": 1300000,
+        "weekend_price": 1600000,
+        "holiday_price": 2000000,
+        "people": 4,
+        "view": "mountain_view",
+        "note": "View núi 2 giường"
+    },
+    {
+        "name": "Phòng 105",
+        "area": "homestay_lang_chai",
+        "weekday_price": 1100000,
+        "weekend_price": 1400000,
+        "holiday_price": 1700000,
+        "people": 4,
+        "view": "no_view",
+        "note": "2 giường m6 không view"
+    },
+    {
+        "name": "Phòng 106",
+        "area": "homestay_lang_chai",
+        "weekday_price": 1500000,
+        "weekend_price": 1800000,
+        "holiday_price": 2100000,
+        "people": 4,
+        "view": "no_view",
+        "note": "(1 giường đôi, 1 giường tầng)"
+    },
+    {
+        "name": "(C1, C2, C3, C4)",
+        "area": "xom_chai",
+        "weekday_price": 1400000,
+        "weekend_price": 1700000,
+        "holiday_price": 2000000,
+        "people": 2,
+        "view": "sea_view",
+        "note": "View biển có ban công"
+    },
+    {
+        "name": "(C5, C6, C7, C8, C9, C10)",
+        "area": "xom_chai",
+        "weekday_price": 900000,
+        "weekend_price": 1100000,
+        "holiday_price": 1400000,
+        "people": 2,
+        "view": "no_view",
+        "note": "Phòng không view"
+    },
+    {
+        "name": "Villa mini (Sỏi, Cát, Đá, San hô)",
+        "area": "xom_chai",
+        "weekday_price": 1700000,
+        "weekend_price": 2000000,
+        "holiday_price": 2500000,
+        "people": 4,
+        "view": "no_view",
+        "note": ""
+    },
+    {
         "name": "Ốc",
         "area": "xom_luoi",
-        "weekday_price": 2100000,
-        "weekend_price": 2600000,
-        "holiday_price": 3200000,
+        "weekday_price": 1800000,
+        "weekend_price": 2200000,
+        "holiday_price": 2700000,
         "people": 6,
         "view": "sea_view",
         "note": "3 giường , 1 Tollet, Ban công hướng ra biển"
@@ -12,49 +162,19 @@
     {
         "name": "Sò",
         "area": "xom_luoi",
-        "weekday_price": 1900000,
-        "weekend_price": 2300000,
-        "holiday_price": 2900000,
+        "weekday_price": 1600000,
+        "weekend_price": 1900000,
+        "holiday_price": 2400000,
         "people": 4,
         "view": "no_view",
         "note": "2 giường, ban công"
     },
     {
-        "name": "Tôm",
-        "area": "xom_luoi",
-        "weekday_price": 1300000,
-        "weekend_price": 1600000,
-        "holiday_price": 1900000,
-        "people": 2,
-        "view": "no_view",
-        "note": "1 giường, ban công"
-    },
-    {
-        "name": "Nhum",
-        "area": "xom_luoi",
-        "weekday_price": 1300000,
-        "weekend_price": 1600000,
-        "holiday_price": 1900000,
-        "people": 2,
-        "view": "no_view",
-        "note": "1 giường, ban công"
-    },
-    {
-        "name": "Mực",
-        "area": "xom_luoi",
-        "weekday_price": 900000,
-        "weekend_price": 1100000,
-        "holiday_price": 1500000,
-        "people": 2,
-        "view": "no_view",
-        "note": "1 giường, không view, không ban công"
-    },
-    {
         "name": "Cua",
         "area": "xom_luoi",
-        "weekday_price": 1600000,
-        "weekend_price": 1900000,
-        "holiday_price": 2200000,
+        "weekday_price": 1300000,
+        "weekend_price": 1600000,
+        "holiday_price": 2000000,
         "people": 4,
         "view": "sea_view",
         "note": "2 giường 1 toilet, ban công hướng ra biển"
@@ -62,21 +182,333 @@
     {
         "name": "Ghẹ",
         "area": "xom_luoi",
-        "weekday_price": 1600000,
-        "weekend_price": 1900000,
-        "holiday_price": 2200000,
+        "weekday_price": 1300000,
+        "weekend_price": 1600000,
+        "holiday_price": 2000000,
         "people": 4,
         "view": "sea_view",
         "note": "2 giường 1 toilet, ban công hướng ra biển"
     },
     {
-        "name": "Hàu",
+        "name": "Tôm",
         "area": "xom_luoi",
-        "weekday_price": 900000,
-        "weekend_price": 1100000,
-        "holiday_price": 1500000,
+        "weekday_price": 1100000,
+        "weekend_price": 1400000,
+        "holiday_price": 1800000,
         "people": 2,
         "view": "no_view",
-        "note": "1 giường, k view, k ban công ngay cầu thang đi lên"
-      }
+        "note": "1 giường, ban công"
+    },
+    {
+        "name": "Nhum",
+        "area": "xom_luoi",
+        "weekday_price": 1100000,
+        "weekend_price": 1400000,
+        "holiday_price": 1800000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, ban công"
+    },
+    {
+        "name": "Mực",
+        "area": "xom_luoi",
+        "weekday_price": 800000,
+        "weekend_price": 1000000,
+        "holiday_price": 1300000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, ko view, không ban công"
+    },
+    {
+        "name": "Hàu",
+        "area": "xom_luoi",
+        "weekday_price": 800000,
+        "weekend_price": 1000000,
+        "holiday_price": 1300000,
+        "people": 2,
+        "view": "no_view",
+        "note": "1 giường, ko view, không ban công ngay cầu thang đi lên"
+    },
+    {
+        "name": "Villa Chài",
+        "area": "villa",
+        "weekday_price": 3000000,
+        "weekend_price": 3500000,
+        "holiday_price": 4000000,
+        "people": 4,
+        "view": "sea_view",
+        "note": ""
+    },
+    {
+        "name": "Villa Lưới",
+        "area": "villa",
+        "weekday_price": 3500000,
+        "weekend_price": 4000000,
+        "holiday_price": 4500000,
+        "people": 4,
+        "view": "sea_view",
+        "note": ""
+    },
+    {
+        "name": "Villa Thuyền",
+        "area": "villa",
+        "weekday_price": 5000000,
+        "weekend_price": 5500000,
+        "holiday_price": 6500000,
+        "people": 8,
+        "view": "no_view",
+        "note": "Không biết view"
+    },
+    {
+        "name": "Villa Thúng",
+        "area": "villa",
+        "weekday_price": 4500000,
+        "weekend_price": 5000000,
+        "holiday_price": 6000000,
+        "people": 8,
+        "view": "sea_view",
+        "note": ""
+    },
+    {
+        "name": "Villa Sóng",
+        "area": "villa",
+        "weekday_price": 4000000,
+        "weekend_price": 4500000,
+        "holiday_price": 5000000,
+        "people": 8,
+        "view": "no_view",
+        "note": "Không biết view"
+    },
+    {
+        "name": "Villa Gió",
+        "area": "villa",
+        "weekday_price": 5000000,
+        "weekend_price": 5500000,
+        "holiday_price": 6500000,
+        "people": 10,
+        "view": "no_view",
+        "note": "Không biết view"
+    },
+    {
+        "name": "Villa Nắng",
+        "area": "villa",
+        "weekday_price": 8000000,
+        "weekend_price": 9500000,
+        "holiday_price": 13000000,
+        "people": 16,
+        "view": "no_view",
+        "note": "không có bếp, sân rộng"
+    },
+    {
+        "name": "Villa Biển",
+        "area": "villa",
+        "weekday_price": 7000000,
+        "weekend_price": 8500000,
+        "holiday_price": 11000000,
+        "people": 12,
+        "view": "no_view",
+        "note": "không có bếp"
+    },
+    {
+        "name": "Villa Mây",
+        "area": "villa",
+        "weekday_price": 4000000,
+        "weekend_price": 5000000,
+        "holiday_price": 6000000,
+        "people": 4,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Nhà Bà Hương",
+        "area": "villa",
+        "weekday_price": 7000000,
+        "weekend_price": 8500000,
+        "holiday_price": 11000000,
+        "people": 8,
+        "view": "sea_view",
+        "note": ""
+    },
+    {
+        "name": "Nhà Bà Ngoại",
+        "area": "villa",
+        "weekday_price": 7000000,
+        "weekend_price": 8500000,
+        "holiday_price": 11000000,
+        "people": 15,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Nhà Ông Ngoại",
+        "area": "villa",
+        "weekday_price": 2500000,
+        "weekend_price": 3500000,
+        "holiday_price": 4000000,
+        "people": 12,
+        "view": "no_view",
+        "note": "không bao gồm ăn sáng"
+    },
+    {
+        "name": "Nhà Như Ý",
+        "area": "villa",
+        "weekday_price": 4000000,
+        "weekend_price": 4500000,
+        "holiday_price": 5000000,
+        "people": 10,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Nhà Hoa Đào",
+        "area": "villa",
+        "weekday_price": 2300000,
+        "weekend_price": 2800000,
+        "holiday_price": 3300000,
+        "people": 6,
+        "view": "no_view",
+        "note": "không bao gồm ăn sáng"
+    },
+    {
+        "name": "Nhà Cá",
+        "area": "villa",
+        "weekday_price": 1300000,
+        "weekend_price": 1600000,
+        "holiday_price": 2000000,
+        "people": 4,
+        "view": "no_view",
+        "note": ""
+    },
+    {
+        "name": "Santo San",
+        "area": "santo_villa",
+        "weekday_price": 5000000,
+        "weekend_price": 5500000,
+        "holiday_price": 6500000,
+        "people": 8,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Ri",
+        "area": "santo_villa",
+        "weekday_price": 5000000,
+        "weekend_price": 5500000,
+        "holiday_price": 6500000,
+        "people": 8,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Li",
+        "area": "santo_villa",
+        "weekday_price": 4000000,
+        "weekend_price": 4500000,
+        "holiday_price": 5500000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Vi",
+        "area": "santo_villa",
+        "weekday_price": 1800000,
+        "weekend_price": 2300000,
+        "holiday_price": 2600000,
+        "people": 2,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Si",
+        "area": "santo_villa",
+        "weekday_price": 3200000,
+        "weekend_price": 3700000,
+        "holiday_price": 4700000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Di",
+        "area": "santo_villa",
+        "weekday_price": 3500000,
+        "weekend_price": 4000000,
+        "holiday_price": 5000000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Paul",
+        "area": "santo_villa",
+        "weekday_price": 3500000,
+        "weekend_price": 4000000,
+        "holiday_price": 5000000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Victor",
+        "area": "santo_villa",
+        "weekday_price": 3500000,
+        "weekend_price": 4000000,
+        "holiday_price": 5000000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Henry",
+        "area": "santo_villa",
+        "weekday_price": 3700000,
+        "weekend_price": 4200000,
+        "holiday_price": 5200000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    {
+        "name": "Santo Oscar",
+        "area": "santo_villa",
+        "weekday_price": 3700000,
+        "weekend_price": 4200000,
+        "holiday_price": 5200000,
+        "people": 6,
+        "view": "sea_view",
+        "note": "Xa trung tâm"
+    },
+    
+        {
+            "name": "Villa Hoa",
+            "area": "villa",
+            "weekday_price": 6000000,
+            "weekend_price": 7000000,
+            "holiday_price": 8000000,
+            "people": 12,
+            "view": "no_view",
+            "note": "Không biết view"
+        },
+        {
+            "name": "Nhà Ông Tí (T1)",
+            "area": "villa",
+            "weekday_price": 4000000,
+            "weekend_price": 5000000,
+            "holiday_price": 6000000,
+            "people": 6,
+            "view": "no_view",
+            "note": "Không biết view"
+        },
+        {
+            "name": "Nhà Ông Tí (T2)",
+            "area": "villa",
+            "weekday_price": 4000000,
+            "weekend_price": 5000000,
+            "holiday_price": 6000000,
+            "people": 6,
+            "view": "no_view",
+            "note": "Không biết view"
+        }
+    
 ]
